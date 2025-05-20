@@ -1,6 +1,6 @@
 # 📧 Automated Personalized Email Sender (Python Script)
 
-This project automates the task of sending \*\*personalized, one-on-one emails\*\* to multiple recruiters using Python. Each recipient gets a custom message with their name in the body and their email in the "To" field — \*\*no BCCs\*\*, no mass sends.
+This project automates the task of sending **personalized, one-on-one emails** to multiple people using Python. Each recipient gets a custom message with their name in the body and their email in the "To" field — **no BCCs**, no mass sends.
 
 ---
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## ⚙️ .env File
 
-Create a file named \`.env\` in the project root:
+Create a file named `.env` in the project root:
 
 SMTP\_USER=your\_email@gmail.com
 
@@ -27,7 +27,7 @@ SMTP\_PASS=your\_16\_char\_app\_password
 
 > - Visiting: https://myaccount.google.com/apppasswords
 
-> - Generating a "Mail" app password (you'll get a 16-character code — \*\*no spaces!\*\*)
+> - Generating a "Mail" app password (you'll get a 16-character code — **no spaces!**)
 
 ---
 
