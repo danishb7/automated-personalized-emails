@@ -9,7 +9,7 @@ This project automates the task of sending **personalized, one-on-one emails** t
 
 Install dependencies with:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ## ⚙️ .env File
