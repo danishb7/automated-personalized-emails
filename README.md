@@ -71,7 +71,10 @@ Bob Smith,bob.smith@startup.com
 🙌 Author
 ---------
 
-**Danish Bhatkar**📍 Computer Science Grad @ Clemson University🌐 GitHub: [danishb7](https://github.com/danishb7)💼 LinkedIn: [danish-bhatkar](https://www.linkedin.com/in/danish-bhatkar)
+**Danish Bhatkar**
+📍 Computer Science Grad @ Clemson University
+🌐 GitHub: [danishb7](https://github.com/danishb7)
+💼 LinkedIn: [danish-bhatkar](https://www.linkedin.com/in/danish-bhatkar)
 
 📬 Wanna Try It?
 ----------------
