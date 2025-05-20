@@ -4,51 +4,13 @@ This project automates the task of sending \*\*personalized, one-on-one emails\*
 
 \---
 
-\## 📁 Project Structure
-
-EmailScript/
-
-├── script.py # Main Python script that sends the emails
-
-├── .env # Stores your Gmail & App Password (NOT committed to GitHub)
-
-├── resume.pdf # Resume or any other file to attach
-
-├── recipients.csv # List of recipient names and emails
-
-├── README.md # Project documentation
-
-yaml
-
-Copy
-
-Edit
-
-\---
 
 \## 🔧 Requirements
-
-Create a \`requirements.txt\` file containing:
-
-python-dotenv
-
-csharp
-
-Copy
-
-Edit
 
 Install dependencies with:
 
 pip install -r requirements.txt
 
-yaml
-
-Copy
-
-Edit
-
-\---
 
 \## ⚙️ .env File
 
@@ -58,11 +20,6 @@ SMTP\_USER=your\_email@gmail.com
 
 SMTP\_PASS=your\_16\_char\_app\_password
 
-yaml
-
-Copy
-
-Edit
 
 \> 🟡 Get your App Password by:
 
@@ -109,13 +66,6 @@ Bob Smith,bob.smith@startup.com
     *   Use encoding="utf-8-sig" when opening the file
         
 
-🛑 .gitignore Example
----------------------
-
-Create a .gitignore file in your repo with:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEdit.env  __pycache__/  *.pyc  .DS_Store   `
-
 > 🚫 Never commit .env to GitHub — it contains your private credentials.
 
 🙌 Author
@@ -128,6 +78,6 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 
 Just run:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   nginxCopyEditpython script.py   `
+python script.py
 
 ...and watch personalized recruiter emails fly out ✈️🔥
