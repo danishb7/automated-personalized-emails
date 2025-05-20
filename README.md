@@ -35,9 +35,9 @@ SMTP\_PASS=your\_16\_char\_app\_password
 
 name,email
 
-Alice Johnson,alice.johnson@company.com
+Danish Bhatkar,danishb@company.com
 
-Bob Smith,bob.smith@startup.com
+Danish Bhatkarr,danishb7@startup.com
 
 🧯 Common Issues & Fixes
 ------------------------
