@@ -42,7 +42,7 @@ Danish Bhatkarr,danishb7@startup.com
 Common Issues & Fixes
 ------------------------
 
-### 🔐 Authentication Error (SMTPAuthenticationError)
+### Authentication Error (SMTPAuthenticationError)
 
 *   Cause: Using normal password instead of App Password
     
@@ -86,7 +86,7 @@ Just run:
 
 ```python script.py```
 
-...and watch personalized recruiter emails fly out ✈️🔥
+...and watch personalized recruiter emails fly out ✈️
 
 
 ### ⚠️ Things to remember..
@@ -96,5 +96,3 @@ Just run:
 * You can implement batch processing of emails if your list is long (say 70-100), and implement it in this code.
 
 * You can also add a sleep timer in the loop, so it waits for a few seconds before sending out the next email!
-* 
-* 
