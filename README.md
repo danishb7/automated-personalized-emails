@@ -86,7 +86,7 @@ Just run:
 
 ```python script.py```
 
-...and watch personalized recruiter emails fly out ✈️
+...and watch personalized emails fly out ✈️
 
 
 ### ⚠️ Things to remember..
